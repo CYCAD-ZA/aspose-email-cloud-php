@@ -9,7 +9,7 @@
     "php",
     "aspose cloud"
   ],
-  "homepage": "https://github.com/aspose-email-cloud/aspose-email-cloud-php",
+  "homepage": "https://github.com/cycad-za/aspose-email-cloud-php",
   "authors": [
     {
       "name": "vs-aspose",
@@ -43,11 +43,5 @@
       "Aspose": "src/",
       "Test": "tests/"
     }
-  },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/cycad-za/aspose-email-cloud-php"
-    }
-  ]
+  }
 }
