@@ -2,7 +2,7 @@
   "description": "This repository contains Aspose Cloud SDK for PHP source code. Aspose Cloud SDK for PHP lets PHP developers convert and process a variety of file formats in the cloud quickly and easily.",
   "name": "cycad-za/aspose-email-cloud",
   "type": "library",
-  "version": "21.10.0",  // Update the version number here
+  "version": "21.10.0",
   "license": "MIT",
   "keywords": [
     "aspose",
